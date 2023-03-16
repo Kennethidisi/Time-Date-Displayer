@@ -129,7 +129,7 @@ body{
         gap: 10px;
         position: relative;
         background-size: cover;
-        background-position: center right;
+        background-position: center bottom;
     }
     
     .logo{
